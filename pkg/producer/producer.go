@@ -3,7 +3,7 @@ package producer
 import (
 	"fmt"
 
-	"github.com/confluentinc/confluent-kafka-go/kafka"
+	kafka "github.com/confluentinc/confluent-kafka-go/kafka"
 )
 
 type ProducerWrapper struct {
