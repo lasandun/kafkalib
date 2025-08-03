@@ -1,4 +1,4 @@
-package kafka_test
+package producer_test
 
 import (
 	"testing"
